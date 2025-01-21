@@ -1,12 +1,12 @@
 # Project 2 - Team 2 Members
 This project is created by the following team members: 
 
-Amy Millimen-tola
-Chris Bushelman
-Kidest Getahun
-Sara Bendahmane
-Matthew Shea
-Xavier Walsh
+Amy Millimen-tola, 
+Chris Bushelman, 
+Kidest Getahun,
+Sara Bendahmane,
+Matthew Shea,
+Xavier Walsh.
 
 ## Short Description:
 
