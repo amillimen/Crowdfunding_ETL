@@ -26,7 +26,7 @@ DROP TABLE IF EXISTS category CASCADE;
 
 CREATE TABLE category (
     "category_id" varchar(20)   NOT NULL,
-    "category_name" varchar(50)   NOT NULL,
+    "category" varchar(50)   NOT NULL,
     CONSTRAINT "pk_category" PRIMARY KEY (
         "category_id"
      )
